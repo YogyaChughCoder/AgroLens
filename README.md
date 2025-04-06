@@ -1,4 +1,4 @@
-#Quick Guide on installation and running
+``Quick Guide on installation and running``
 
 Initially clone this repo !
 
